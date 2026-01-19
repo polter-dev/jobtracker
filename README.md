@@ -8,7 +8,9 @@ feel free to use it too if you want
 
 ## Tech Stack
 SQLite for persistence
+
 go-pretty for table rendering
+
 Cobra for CLI parsing
 
 ## Installation
